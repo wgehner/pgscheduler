@@ -1,6 +1,6 @@
 basedir: ../..
 
-ROOT: '/www'
+ROOT: '/www/'
 
 
 pretty: true
